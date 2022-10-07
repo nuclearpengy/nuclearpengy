@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi 👋
+
+### I like coffee ☕, build software ⚙️, am enthusiastic about Machine Learning 🤖, and spend most of my day in meetings 📅.
 
 <!--
 **nuclearpengy/nuclearpengy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
